@@ -1,0 +1,36 @@
+# site settings
+title: Moss Banks is getting married!
+subtitle: by Andy and Tash
+email: andyandtashwedding@gmail.com
+description: Join us on the day we say "I do"
+baseurl: "/aweddinginyork" # the subpath of your site, e.g. /blog
+url: "https://natseg.github.io" # the base hostname & protocol for your site
+author: Andy and Tash
+street_address: 138 Haxby Road
+city: York
+state: North Yorkshire
+zip_code: YO31 8JN
+country: United Kingdom
+phone: (+44) 7445673908
+
+# homepage tiles
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+500px_url:
+facebook_url:
+github_url:
+gitlab_url:
+googleplus_url:
+instagram_url: https://instagram.com
+linkedin_url:
+pinterest_url:
+slack_url:
+twitter_url:
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
