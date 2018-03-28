@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: Stay in York
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: Our house is not big enough
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -13,9 +13,11 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>Hotels</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		As much as we would love to host all of you, we cannot do it short of putting all of you in a very uncomfortable state.   
+    <br/>
+    This is where you will find the best options to stay in York based on distance and price.
 	</div>
 </section>
 
