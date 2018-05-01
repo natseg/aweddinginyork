@@ -13,5 +13,5 @@ And even if you are UK resident, your presence is the best gift we can hope for.
 
 Cheesy? Yes. 
 
-Unsincere? No.
+Insincere? No.
                                               
