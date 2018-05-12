@@ -3,7 +3,7 @@ title: Moss Bank is getting married!
 subtitle: by Andy and Tash
 email: andyandtashwedding@gmail.com
 description: Join us on the day we say "I do"
-baseurl: "/aweddinginyork" # the subpath of your site, e.g. /blog
+baseurl: "/aweddinginyork/" # the subpath of your site, e.g. /blog
 url: "https://natseg.github.io" # the base hostname & protocol for your site
 author: Andy and Tash
 street_address: 138 Haxby Road
@@ -18,16 +18,9 @@ tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings
-500px_url:
-facebook_url:
-github_url:
-gitlab_url:
-googleplus_url:
-instagram_url: https://instagram.com
-linkedin_url:
-pinterest_url:
-slack_url:
-twitter_url:
+facebook_url: https://www.facebook.com/AndyTashs-Wedding-201577567122055/
+instagram_url: https://www.instagram.com/andyandtashwedding/
+pinterest_url: https://www.pinterest.fr/natanuts/wedding-3/
 
 # build settings
 markdown: kramdown
