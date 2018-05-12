@@ -20,6 +20,8 @@ image: assets/images/pic08.jpg
 Flybe operates a direct service from Saint Exupéry
 https://www.flybe.com/lyon-to-manchester/
 
+<a name="london">London</a>
+Nope.
 
 <a name="beziers">Béziers</a>
 
@@ -29,6 +31,29 @@ While there is a direct flight from Béziers to Manchester, it only operates on
 
 It's generally easier (but longer) to fly to London and then take a train to York.
 
-Plane: Béziers -> London Luton Airport (2h)
-Bus: London Luton Airport -> London Luton Train Station (15min)
-Train: London Luton Train Station -> York Train Station
+* Plane: Béziers -> London Luton Airport (2h)
+* Shuttle: London Luton Airport -> London Luton Airport Parkway (6min)
+* Train: Luton Airport Parkway -> Leicester (approximately 1h)
+* Train: Leicester -> Sheffield (approximately 1h)
+* Train: Sheffield -> York (a bit over 1h)
+
+## By train
+
+Eurostar: 
+can be book up to 6 months in advance
+
+#### From Lyon
+
+The link below will only be active from Nov 4th 2019.
+
+<a href='https://booking.eurostar.com/uk-en/train-search/standard/8772319/7015400?adult=2&outbound-date=2019-05-03&inbound-date=2019-05-05'>
+2 adults from Lyon - May 3rd to May 5th 2019
+</a>
+
+#### From Béziers
+
+The link below will only be active from Feb 2nd 2019.
+
+<a href='https://booking.eurostar.com/uk-en/train-search/standard/8778100/7015400?adult=2&outbound-date=2019-05-03&inbound-date=2019-05-05'>
+2 adults from Béziers - May 3rd to May 5th 2019
+</a>
