@@ -32,10 +32,17 @@ While there is a direct flight from Béziers to Manchester, it only operates on
 It's generally easier (but longer) to fly to London and then take a train to York.
 
 * Plane: Béziers -> London Luton Airport (2h)
-* Shuttle: London Luton Airport -> London Luton Airport Parkway (6min)
-* Train: Luton Airport Parkway -> Leicester (approximately 1h)
-* Train: Leicester -> Sheffield (approximately 1h)
-* Train: Sheffield -> York (a bit over 1h)
+Go to London, enjoy London
+<a href='https://www.london-luton.co.uk/to-and-from-lla'>
+  Luton Airport - London
+</a>
+* Train: London Kings Cross -> York (2h)
+    
+To book your trains:
+https://www.thetrainline.com/
+Enter: 
+'London Kings Cross' then 'York', let the app do the work for you.
+Check the number of changes. Ideally 0.
 
 ## By train
 
