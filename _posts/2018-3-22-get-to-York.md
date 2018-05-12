@@ -52,6 +52,8 @@ Enter:
 
  <img src="{{site.url}}{{site.baseurl}}/assets/images/train.png" alt="" />
 
+ <img src="assets/train.png" alt="" />
+
 ## By train
 
 Eurostar: 
