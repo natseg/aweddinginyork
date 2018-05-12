@@ -50,7 +50,7 @@ Enter:
 * 'London Kings Cross' then 'York', let the app do the work for you.
 * Check the number of changes. Ideally 0.
 
- <img src="{{site.url}}{{site.baseurl}}/assets/images/train.png" alt="" />
+ <img src="{{site.url}}{{site.baseurl}}assets/images/train.png" alt="" />
 
  <img src="assets/train.png" alt="" />
 
