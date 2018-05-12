@@ -39,10 +39,14 @@ Go to London, enjoy London
 * Train: London Kings Cross -> York (2h)
     
 To book your trains:
-https://www.thetrainline.com/
-Enter: 
-'London Kings Cross' then 'York', let the app do the work for you.
-Check the number of changes. Ideally 0.
+* https://www.thetrainline.com/
+
+Enter:
+ 
+* 'London Kings Cross' then 'York', let the app do the work for you.
+* Check the number of changes. Ideally 0.
+
+ <img src="{{site.url}}{{site.baseurl}}/assets/images/train.png" alt="" />
 
 ## By train
 
