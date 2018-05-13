@@ -43,7 +43,7 @@ Go to London, enjoy London
     
 * Train: 
 
-##### [From Londres](#train-londres)
+##### [From London](#train-london)
 
 ## By train
 
