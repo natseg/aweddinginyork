@@ -41,33 +41,35 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
+		<a target='_blank' rel='noreferrer noopener' href="https://www.travelodge.co.uk/hotels/422/York-Central-Micklegate-hotel" class="image">
+			<img src="assets/images/travelodgemicklegate.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>££ - Travelodge Micklegate</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Location: Micklegate, 10 minutes walk from the garden</p>
+				<p>Price: £90-110/night</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a target='_blank' rel='noreferrer noopener' href="https://www.travelodge.co.uk/hotels/422/York-Central-Micklegate-hotel" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
+		<a target='_blank' rel='noreferrer noopener' href="https://www.thefortyork.co.uk/" class="image">
+			<img src="assets/images/fortyork.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>£ - The Fort Boutique Hostel</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Location: Stonegate, 5 minutes walk from the garden</p>
+				<p>Price: £75-90/night</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a target='_blank' rel='noreferrer noopener' href="https://www.thefortyork.co.uk/" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -78,11 +80,11 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Massa libero</h2>
+			<h2>So many options</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+		<p>York has a huge number of places to stay, including a lot of very nice B&Bs with only a few rooms each, so by all means use our suggestions above, but we do recommend having a look for yourself - you might find a hidden treasure!</p>
 		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
+			<li><a href="https://www.google.co.uk/search?q=rooms+in+york" class="button next">Take a Look</a></li>
 		</ul>
 	</div>
 </section>
