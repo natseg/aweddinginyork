@@ -42,7 +42,8 @@ Go to London, enjoy London
 </a>
     
 * Train: 
-#### [De Londres](#train-londres)
+
+##### [From Londres](#train-londres)
 
 ## By train
 
