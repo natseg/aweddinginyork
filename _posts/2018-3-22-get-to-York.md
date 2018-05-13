@@ -40,19 +40,9 @@ Go to London, enjoy London
 <a href='https://www.london-luton.co.uk/to-and-from-lla'>
   Luton Airport - London
 </a>
-* Train: London Kings Cross -> York (2h)
     
-To book your trains:
-* https://www.thetrainline.com/
-
-Enter:
- 
-* 'London Kings Cross' then 'York', let the app do the work for you.
-* Check the number of changes. Ideally 0.
-
- <img src="{{site.url}}{{site.baseurl}}assets/images/train.png" alt="" />
-
- <img src="assets/train.png" alt="" />
+* Train: 
+##### [From Londres](#train-londres)
 
 ## By train
 
@@ -74,3 +64,18 @@ The link below will only be active from Feb 2nd 2019.
 <a href='https://booking.eurostar.com/uk-en/train-search/standard/8778100/7015400?adult=2&outbound-date=2019-05-03&inbound-date=2019-05-05'>
 2 adults from Béziers - May 3rd to May 5th 2019
 </a>
+
+<a name="train-london">London</a>
+
+Virgin trains and Grand Central offer direct trains, they take between between 1h40 and 2h.
+* Train: London Kings Cross -> York (2h)
+
+To book in advance (recommended):
+* https://www.thetrainline.com/
+
+Type: 
+
+* 'London Kings Cross' then 'York' and the app will do the work.
+* Check the number of changes. Ideally 0.
+ 
+ <img src="{{site.url}}{{site.baseurl}}/assets/images/train.png" alt="" />

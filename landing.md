@@ -24,17 +24,18 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
+		<a target='_blank' rel='noreferrer noopener' href="https://www.thwaites.co.uk/hotels-and-inns/inns/judges-lodging-at-york/#" class="image">
+			<img src="{{site.url}}{{site.baseurl}}assets/images/judgeslodging.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>£££ - The Judge's Lodging</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Location: 1 min walk from the garden</p>
+				<p>Price: £120-130/night</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a target='_blank' rel='noreferrer noopener' href="https://www.thwaites.co.uk/hotels-and-inns/inns/judges-lodging-at-york/#" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
