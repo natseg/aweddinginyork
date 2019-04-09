@@ -11,9 +11,9 @@ nav-menu: true
 	<div class="row 50% uniform">
 		<div class="4u"><span class="image fit"><img src="assets/images/family.jpg" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="assets/images/family_2.jpg" alt="" /></span></div>
-		<div class="4u$"><span class="image fit"><img src="assets/images/delphine.png" alt="" /></span></div>
+		<div class="4u$"><span class="image fit"><img src="assets/images/sam_john.png" alt="" /></span></div>
 		<!-- Break -->
-		<div class="4u"><span class="image fit"><img src="assets/images/sam_john.png" alt="" /></span></div>
+		<div class="4u"><span class="image fit"><img src="assets/images/delphine.png" alt="" /></span></div>
 		<div class="4u"><span class="image fit"><img src="assets/images/sam_chris.png" alt="" /></span></div>
 		<div class="4u$"><span class="image fit"><img src="assets/images/josh.png" alt="" /></span></div>
 		<!-- Break -->
